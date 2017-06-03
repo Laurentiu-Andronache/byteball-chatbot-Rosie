@@ -1,0 +1,35 @@
+{
+  "name": "byteball-chatbot-Mitsuku",
+  "description": "Byteball Mitsuku (chatbot)",
+  "author": "Laurențiu Andronache <laurentiu.andronache@trailung.ro> (https://gamblers-united.com)",
+  "version": "0.0.1",
+  "main": "start.js",
+  "keywords": [
+    "byteball",
+    "chatbot",
+    "Mitsuku",
+    "conversational AI",
+    "chatbots.io",
+    "pandorabots.com"
+  ],
+  "license": "MIT",
+  "repository": {
+    "url": "git://github.com/Laurentiu-Andronache/byteball-chatbot-Mitsuku.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laurentiu-Andronache/byteball-chatbot-Mitsuku/issues"
+  },
+  "dependencies": {
+    "byteballcore": "^0.2.33",
+    "headless-byteball": "git+https://github.com/byteball/headless-byteball.git",
+    "pb-node": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.0.1"
+  }
+}
