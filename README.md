@@ -11,8 +11,13 @@ It saves sessions! It will remember you on each device. You can easily test this
 
 
 ## How to pair with this bot in the Byteball mainnet
-![ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000](https://raw.githubusercontent.com/Laurentiu-Andronache/byteball-chatbot-Rosie/master/.idea/mainnetqrcode.png) | [ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000](byteball:ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000)
---- | ---
+
+In the [Byteball wallet](https://byteball.org/#download), go to PAIRED DEVICES -> Add a new device -> Accept invitation from the other device. Then scan the following QR code, or input the address manually.
+
+![ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000 ""](https://raw.githubusercontent.com/Laurentiu-Andronache/byteball-chatbot-Rosie/master/.idea/mainnetqrcode.png)
+
+[ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000](byteball:ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000)
+
 
 
 ## Development environment
