@@ -20,7 +20,7 @@ var bot = new Pandorabot(chatbotOptions);
 var Sessions = {};
 
 function sendGreeting(deviceAddress) {
-  device.sendMessageToDevice(deviceAddress, 'text', 'Created by @la from byteball.slack.com\nOpen source: https://github.com/Laurentiu-Andronache/byteball-chatbot-Rosie\nVersion: ' + _package.version + '\n-------------------------------------------------------------');
+  device.sendMessageToDevice(deviceAddress, 'text', 'Created by @la from byteball.slack.com\nOpen source: https://github.com/Laurentiu-Andronache/byteball-chatbot-Rosie\nVersion: ' + _package.version + '\nDonate: 7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ\n-------------------------------------------------------------');
 }
 
 function initiateSession(deviceAddress) {

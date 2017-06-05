@@ -18,6 +18,7 @@ function sendGreeting(deviceAddress) {
       `Created by @la from byteball.slack.com
 Open source: https://github.com/Laurentiu-Andronache/byteball-chatbot-Rosie
 Version: ${version}
+Donate: 7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ
 -------------------------------------------------------------`);
 }
 
