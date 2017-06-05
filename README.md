@@ -77,7 +77,7 @@ On Linux, you would replace in the above command "babel.cmd" with "babel".
 
 ## Donations address
 
-![7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ](/.idea/myqrcode.png?raw=true "7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ")
+![7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ](https://raw.githubusercontent.com/Laurentiu-Andronache/byteball-chatbot-Rosie/master/.idea/myqrcode.png "7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ")
 
 Funds go towards:
 
