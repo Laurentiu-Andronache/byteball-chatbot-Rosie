@@ -1,5 +1,5 @@
 import { version } from './package.json';
-import * as chatbotOptions from './chatbot.json';
+
 
 require('byteballcore/conf.js');
 require('byteballcore/wallet.js');
