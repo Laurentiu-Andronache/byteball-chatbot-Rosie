@@ -11,7 +11,8 @@ It saves sessions! It will remember you on each device. You can easily test this
 
 
 ## How to pair with this bot in the Byteball mainnet
-* to add address and QR code here
+![ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000](https://raw.githubusercontent.com/Laurentiu-Andronache/byteball-chatbot-Rosie/master/.idea/mainnetqrcode.png) | [ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000](byteball:ApOpqXbI7GpqOl3Z96QW/GSNgv04g4RcFr/xpaDmN9cg@byteball.org/bb#0000)
+--- | ---
 
 
 ## Development environment
