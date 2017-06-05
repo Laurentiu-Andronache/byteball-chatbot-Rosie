@@ -1,6 +1,6 @@
 {
-  "name": "byteball-chatbot-Mitsuku",
-  "description": "Byteball Mitsuku (chatbot)",
+  "name": "byteball-chatbot-Rosie",
+  "description": "Byteball Rosie (chatbot)",
   "author": "Laurențiu Andronache <laurentiu.andronache@trailung.ro> (https://gamblers-united.com)",
   "version": "1.0.0",
   "main": "start.js",
@@ -10,18 +10,18 @@
   "keywords": [
     "byteball",
     "chatbot",
-    "Mitsuku",
+    "Rosie",
     "conversational AI",
     "chatbots.io",
     "pandorabots.com"
   ],
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/Laurentiu-Andronache/byteball-chatbot-Mitsuku.git",
+    "url": "git://github.com/Laurentiu-Andronache/byteball-chatbot-Rosie.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/Laurentiu-Andronache/byteball-chatbot-Mitsuku/issues"
+    "url": "https://github.com/Laurentiu-Andronache/byteball-chatbot-Rosie/issues"
   },
   "dependencies": {
     "byteballcore": "^0.2.33",

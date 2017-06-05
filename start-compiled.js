@@ -2,6 +2,12 @@
 
 var _package = require('./package.json');
 
+var _chatbot = require('./chatbot.json');
+
+var chatbotOptions = _interopRequireWildcard(_chatbot);
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
 require('byteballcore/conf.js');
 require('byteballcore/wallet.js');
 require('headless-byteball');
@@ -14,7 +20,7 @@ var bot = new Pandorabot(chatbotOptions);
 var Sessions = {};
 
 function sendGreeting(deviceAddress) {
-  device.sendMessageToDevice(deviceAddress, 'text', 'Created by @la from byteball.slack.com\nOpen source: https://github.com/Laurentiu-Andronache/byteball-chatbot-Mitsuku\nVersion: ' + _package.version + '\n-------------------------------------------------------------');
+  device.sendMessageToDevice(deviceAddress, 'text', 'Created by @la from byteball.slack.com\nOpen source: https://github.com/Laurentiu-Andronache/byteball-chatbot-Rosie\nVersion: ' + _package.version + '\n-------------------------------------------------------------');
 }
 
 function initiateSession(deviceAddress) {

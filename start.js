@@ -1,5 +1,5 @@
 import { version } from './package.json';
-
+import * as chatbotOptions from './chatbot.json';
 
 require('byteballcore/conf.js');
 require('byteballcore/wallet.js');
@@ -16,7 +16,7 @@ const Sessions = {};
 function sendGreeting(deviceAddress) {
   device.sendMessageToDevice(deviceAddress, 'text',
       `Created by @la from byteball.slack.com
-Open source: https://github.com/Laurentiu-Andronache/byteball-chatbot-Mitsuku
+Open source: https://github.com/Laurentiu-Andronache/byteball-chatbot-Rosie
 Version: ${version}
 -------------------------------------------------------------`);
 }

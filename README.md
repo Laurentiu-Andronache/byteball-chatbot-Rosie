@@ -77,7 +77,8 @@ On Linux, you would replace in the above command "babel.cmd" with "babel".
 
 ## Donations address
 
-![7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ](https://raw.githubusercontent.com/Laurentiu-Andronache/byteball-chatbot-Rosie/master/.idea/myqrcode.png "7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ")
+![7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ](https://raw.githubusercontent.com/Laurentiu-Andronache/byteball-chatbot-Rosie/master/.idea/myqrcode.png "7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ") | 7N6RHAKVPHXZR6OXQNGHQKWMM7RSGWAQ (Byteball address)
+--- | ---
 
 Funds go towards:
 
@@ -86,3 +87,11 @@ Funds go towards:
 * Pandorabots' API subscription
 
 * my time for developing more open source and well documented bots for the Byteball network
+
+## Contact me
+
+You may contact me through Byteball's Slack:
+
+http://slack.byteball.org
+
+My username is @la
