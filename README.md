@@ -3,7 +3,8 @@
 
 
 ## What is this?
-This is a conversational AI, available for the [Byteball network](https://byteball.org). At the moment it's serving [Rosie](https://github.com/pandorabots/rosie) through [Pandorabots' API](https://developer.pandorabots.com), but without modifying the code you can serve any other AIML-compliant chatbot.
+This is a conversational AI, available for the [Byteball network](https://byteball.org). At the moment it's serving [Rosie](https://github.com/pandorabots/rosie) through [Pandorabots' API](https://developer.pandorabots.com), but without modifying the code you can serve any other AIML-compliant chatbot. | ![Example of conversation ""](https://raw.githubusercontent.com/Laurentiu-Andronache/byteball-chatbot-Rosie/master/.idea/example.png)
+--- | ---
 
 
 ## Features
